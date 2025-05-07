@@ -72,4 +72,6 @@ Debounce: para evitar múltiplos acionamentos falsos nos botões
 Interrupção: para resposta imediata ao Botão B
 
 Código e Vídeo
+
 Github: https://github.com/Mateus-MDS/Sem-faro_Inteligente.git
+Youtube: https://youtu.be/QejOpELxVy8
